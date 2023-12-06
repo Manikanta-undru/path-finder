@@ -1,7 +1,3 @@
-// App.tsx
-
-import "./App.css";
-
 import { getCities, getPaths } from "./services/http.service";
 import { useEffect, useState } from "react";
 
